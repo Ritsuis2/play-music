@@ -3,3 +3,4 @@ Aplicação desktop que emula as características de um gerenciador de PlayLists
 ### equipe 
 Raniele Xavier Soares, 
 Fabiana Pereira Oliveira 
+Mirele Oliveira da Silva
